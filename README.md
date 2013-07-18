@@ -1,3 +1,6 @@
+Loading buttons with AngularJS
+=============
+
 This is a simple AngularJS directive to make buttons spin while waiting something.
 
 Behavior
